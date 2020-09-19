@@ -1,7 +1,7 @@
 ---
-title: Test
 group: Accounts
 weight: 50
+title: Test2
 ---
 
 You can use the `test-repo` backend to try out Netlify CMS without connecting to a Git repo. With this backend, you can write and publish content normally, but any changes will disappear when you reload the page. This backend powers the Netlify CMS [demo site](https://cms-demo.netlify.com/).
